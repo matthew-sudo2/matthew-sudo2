@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! I'm a Computer Science student from National University - Manila. <br><br><br>ABOUT ME:<br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, RAG, and other AI Concepts.<br>- 💼 I’m working on projects like KIOSK Ordering System, LRT Fare Matrix, AI Chatbots + RAG. Multi-Agent Application, Automation.</h4>
+<h3 align="left">Hi 👋! I'm a Computer Science student from National University - Manila. <br><br><br>ABOUT ME:<br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, RAG, and other AI Concepts.<br>- 💼 I’m working on projects like KIOSK Ordering System, LRT Fare Matrix, AI Chatbots + RAG. Multi-Agent Application, Automation.</h3>
 
 ###
 
@@ -37,6 +37,10 @@
 
 ###
 
+<img align="right" height="200" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -47,9 +51,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
-
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph-dark.svg">
