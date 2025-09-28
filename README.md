@@ -37,10 +37,6 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -51,12 +47,10 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="200" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph.svg">
-</picture>
+###
+
+<img src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/snake.svg" alt="Snake animation" />
 
 ###
