@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
+<img align="right" height="170" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
 
 ###
 
