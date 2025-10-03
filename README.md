@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! I'm my name is Matthew a Computer Science student from National University - Manila. <br><br><br>ABOUT ME:<br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, RAG, and other AI Concepts.<br>- 💼 I’m working on projects like KIOSK Ordering System, LRT Fare Matrix, AI Chatbots + RAG. Multi-Agent Application, Automation.</h3>
+<h3 align="left">Hi 👋! I'm Matthew a Computer Science student from National University - Manila. <br><br><br>ABOUT ME:<br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, RAG, and other AI Concepts.<br>- 💼 I’m working on projects like KIOSK Ordering System, LRT Fare Matrix, AI Chatbots + RAG. Multi-Agent Application, Automation.</h3>
 
 ###
 
