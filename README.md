@@ -1,10 +1,22 @@
-<h3 align="left">Hi 👋! I'm Matthew a Computer Science student from National University - Manila. <br><br><br>ABOUT ME:<br>- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, RAG, and other AI Concepts.<br>- 💼 I’m working on projects like KIOSK Ordering System, LRT Fare Matrix, AI Chatbots + RAG. Multi-Agent Application, Automation.</h3>
+<h1 align="left">Hi 👋! I'm Matthew</h1>
+<h3 align="left">A Computer Science student from National University - Manila</h3>
+
+###
+
+<h2 align="left">📌 About Me</h2>
+
+<p align="left">
+- 🌱 I’m currently learning <b>Artificial Intelligence, Machine Learning, RAG, and other AI Concepts</b>.<br>
+- 💼 I’m working on projects like <b>KIOSK Ordering System, LRT Fare Matrix, AI Chatbots + RAG, Multi-Agent Applications, and Automation</b>.
+</p>
 
 ###
 
 <img align="right" height="170" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
 
 ###
+
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=matthew-sudo2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -13,9 +25,7 @@
 
 ###
 
-<h3 align="left">TECH STACK: </h3>
-
-###
+<h2 align="left">⚡ Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -45,9 +55,7 @@
 
 ###
 
-<h3 align="left">CONNECT WITH ME: </h3>
-
-###
+<h2 align="left">🌐 Connect With Me</h2>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -59,10 +67,10 @@
 
 ###
 
+<h2 align="left">🎮 Fun Contribution Graph</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph.svg">
 </picture>
-
-###
