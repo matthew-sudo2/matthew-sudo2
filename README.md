@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="170" style="margin-top:30px;" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
+<img align="right" height="170" style="margin-top:20px;" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/totoro.gif"  />
 
 ###
 
