@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">📌 About Me</h2>
+<h2 align="left">About Me</h2>
 
 <p align="left">
 - 🌱 I’m currently learning <b>Artificial Intelligence, Machine Learning, RAG, and other AI Concepts</b>.<br>
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">⚡ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">🎮 This is how i eat those who did me wrong.</h2>
+<h2 align="left">This is how i eat those who did me wrong.</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph-dark.svg">
