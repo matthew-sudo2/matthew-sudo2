@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! I'm Matthew</h1>
-<h3 align="left">A CS Machine Learning student from National University - Manila</h3>
+<h3 align="left">A Computer Science specialized in Machine Learning student from National University - Manila</h3>
 
 ###
 
