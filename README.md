@@ -7,7 +7,7 @@
 
 <p align="left">
 - 🌱 I’m currently learning <b>Artificial Intelligence, Machine Learning, RAG, and other AI Concepts</b>.<br>
-- 💼 I’m working on projects like <b>KIOSK Ordering System, LRT Fare Matrix, AI Chatbots + RAG, Multi-Agent Applications, and Automation</b>.
+- 💼 I’m working on projects like <b>KIOSK Ordering System, LRT Fare Matrix, AI Chatbots + RAG, Multi-Agent Orchestration, and Automation</b>.
 </p>
 
 ###
