@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">This is how i eat those who did me wrong.</h2>
+<h2 align="left">PACMAN GAME.</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph-dark.svg">
