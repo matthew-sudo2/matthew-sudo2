@@ -15,8 +15,7 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <!-- Move Totoro here so it aligns with stats -->
-<img align="right" height="140" style="margin-top:20px;" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/starkk.png"  />
-
+<img align="right" height="140" width="140" style="margin-top:20px;" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/starkk.png" />
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=matthew-sudo2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matthew-sudo2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
