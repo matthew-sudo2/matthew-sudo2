@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <!-- Move Totoro here so it aligns with stats -->
 <img align="right" height="140" width="140" style="margin-top:20px;" src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/starkk.png" />
