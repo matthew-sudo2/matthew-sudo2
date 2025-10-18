@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="left">PACMAN GAME.</h2>
+<h2 align="left">A Simple Game Simulator.</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph-dark.svg">
