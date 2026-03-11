@@ -6,8 +6,8 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-- 🌱 I’m currently learning <b>Artificial Intelligence, Machine Learning, RAG, and other AI Concepts</b>.<br>
-- 💼 I’m working on projects like <b>KIOSK Ordering System, AI Chatbots + RAG, Multi-Agent Orchestration, and Automation</b>.
+- 🌱 I’m currently learning <b>Artificial Intelligence, Machine Learning, Deep Learning, RAG, and other AI Concepts</b>.<br>
+- 💼 I’m working on projects like <b>Flood Prediction Analysis, AI Chatbots + RAG, Multi-Agent Orchestration, and Automation</b>.
 </p>
 
 ###
