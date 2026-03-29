@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Matthew
 
-### Computer Science Student | AI/ML Enthusiast | AWS Learning Club AI/ML Lead
+###  AI/ML Lead ‘25-‘26 @ AWS Learning Club - Legarda | CS Student Specializing in Machine Learning 
 
 <img src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/starkk.png" width="200" alt="Profile" />
 
