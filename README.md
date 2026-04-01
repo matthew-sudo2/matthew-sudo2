@@ -26,7 +26,7 @@ I'm a **Computer Science student** at **National University - Manila**, speciali
 - Building community-driven AI projects and initiatives
 
 ### 🔭 What I'm Working On
-- 🌊 **Flood Prediction Analysis** - Leveraging ML for disaster preparedness
+- 🌊 **Machine Learning Projects** - Leveraging ML for disaster preparedness, and research innovation
 - 🤖 **AI Chatbots with RAG** - Building intelligent conversational systems
 - 🔄 **Multi-Agent Orchestration** - Coordinating AI agents for complex tasks
 - ⚙️ **Automation Solutions** - Streamlining workflows with AI
