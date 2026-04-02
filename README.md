@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Matthew
 
-###  AI/ML Lead ‘25-‘26 @ AWS Learning Club - Legarda | CS Student Specializing in Machine Learning 
+### AI/ML Lead '25-'26 @ AWS Learning Club - Legarda | CS Student Specializing in Machine Learning 
 
 <img src="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/main/images/starkk.png" width="200" alt="Profile" />
 
@@ -15,23 +15,23 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
 I'm a **Computer Science student** at **National University - Manila**, specializing in **Machine Learning** with a passion for building intelligent systems that solve real-world problems.
 
-### 🚀 Current Role
+### Current Role
 **AI/ML Lead** @ **AWS Learning Club - Legarda**
 - Leading workshops and training sessions on AI/ML technologies
 - Mentoring students in cloud computing and machine learning
 - Building community-driven AI projects and initiatives
 
-### 🔭 What I'm Working On
-- 🌊 **Machine Learning Projects** - Leveraging ML for disaster preparedness, and research innovation
-- 🤖 **AI Chatbots with RAG** - Building intelligent conversational systems
-- 🔄 **Multi-Agent Orchestration** - Coordinating AI agents for complex tasks
-- ⚙️ **Automation Solutions** - Streamlining workflows with AI
+### What I'm Working On
+- Machine Learning Projects - Leveraging ML for disaster preparedness and research innovation
+- AI Chatbots with RAG - Building intelligent conversational systems
+- Multi-Agent Orchestration - Coordinating AI agents for complex tasks
+- Automation Solutions - Streamlining workflows with AI
 
-### 🌱 Currently Learning
+### Currently Learning
 - Advanced Deep Learning Architectures
 - Retrieval-Augmented Generation (RAG)
 - Large Language Model (LLM) Fine-tuning
@@ -40,7 +40,20 @@ I'm a **Computer Science student** at **National University - Manila**, speciali
 
 ---
 
-## 💻 Tech Stack
+## Achievements
+
+**Hackfest: Axis by GDGOC-Loyola x Accenture** - Grand Finalist
+- Competed against top teams in a prestigious hackathon focused on innovative solutions
+
+**Huawei ICT Competition** - Competitor
+- Participated in a global competition demonstrating expertise in information and communications technology
+
+**AWS AI/ML Scholar**
+- Selected for specialized training in artificial intelligence and machine learning on AWS platform
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -68,7 +81,7 @@ I'm a **Computer Science student** at **National University - Manila**, speciali
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <table>
@@ -90,22 +103,22 @@ I'm a **Computer Science student** at **National University - Manila**, speciali
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌊 **Flood Prediction System** | ML model for disaster preparedness | Python, TensorFlow, Pandas |
-| 🤖 **RAG Chatbot** | Intelligent conversational AI | LangChain, OpenAI, Vector DB |
-| 🔄 **Multi-Agent System** | Orchestrated AI agents | Python, LLMs, APIs |
-| ⚙️ **Automation Suite** | Workflow optimization tools | Python, APIs, Scripting |
+| Flood Prediction System | ML model for disaster preparedness | Python, TensorFlow, Pandas |
+| RAG Chatbot | Intelligent conversational AI | LangChain, OpenAI, Vector DB |
+| Multi-Agent System | Orchestrated AI agents | Python, LLMs, APIs |
+| Automation Suite | Workflow optimization tools | Python, APIs, Scripting |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthew-sudo2/matthew-sudo2/output/pacman-contribution-graph-dark.svg">
@@ -115,7 +128,7 @@ I'm a **Computer Science student** at **National University - Manila**, speciali
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
