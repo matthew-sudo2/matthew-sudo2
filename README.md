@@ -1,94 +1,84 @@
-# Matthew
+# Matthew — Machine Learning Engineer
 
-Machine Learning Engineer | Computer Science Student  
-National University – Manila  
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+## 🧠 Profile
+CS student focused on **Machine Learning systems** and applied AI.
 
-## About
+I build models that don’t just work in notebooks—  
+they scale, deploy, and solve real problems.
 
-I am a Computer Science student specializing in Machine Learning, focused on building practical AI systems that solve real-world problems. My work spans model development, data pipelines, and deploying intelligent applications.
+### Focus Areas
+- Applied ML / Deep Learning  
+- RAG & LLM Systems  
+- Multi-Agent Architectures  
+- MLOps & Deployment  
 
-I am particularly interested in:
-- Applied Machine Learning
-- Retrieval-Augmented Generation (RAG)
-- Multi-agent systems
-- MLOps and scalable AI systems
-
----
-
-## Experience
-
+### Current Role
 **AI/ML Lead**  
-AWS Learning Club – Legarda (2026–2027)  
-- Led technical workshops on machine learning and cloud computing  
-- Mentored students in building ML-based projects  
-- Organized community-driven AI initiatives  
+AWS Learning Club – Legarda  
+- Lead ML workshops  
+- Mentor student builders  
+- Design AI projects & pipelines  
+
+</td>
+<td width="45%" valign="top">
+
+## ⚙️ Tech Stack
+
+**Core ML**
+- Python
+- PyTorch
+- TensorFlow
+- scikit-learn  
+
+**Data**
+- Pandas
+- Jupyter
+
+**Backend / Tools**
+- JavaScript
+- APIs
+- MongoDB
+- PostgreSQL
+
+**Cloud**
+- AWS (S3, EC2, basic ML services)
 
 ---
 
-## Projects
+## 🎯 Currently Learning
+- LLM fine-tuning  
+- Vector databases (RAG systems)  
+- MLOps pipelines  
+- Multi-agent AI systems  
 
-**Flood Prediction System**  
-Machine learning model for disaster preparedness using environmental data  
-- Built predictive models for flood risk classification  
-- Performed data preprocessing, feature engineering, and evaluation  
-
-**RAG-based Chatbot**  
-Context-aware conversational AI system  
-- Implemented retrieval pipelines with vector databases  
-- Integrated LLMs for accurate and grounded responses  
-
-**Multi-Agent System**  
-Coordinated AI agents for complex workflows  
-- Designed agent communication and orchestration logic  
-- Applied LLMs for task decomposition and execution  
-
-**Automation Tools**  
-AI-driven workflow optimization  
-- Developed scripts and APIs for process automation  
-- Improved efficiency in repetitive data tasks  
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
+## 🚀 Projects (Selected)
 
-**Languages**  
-Python, JavaScript  
-
-**Machine Learning**  
-PyTorch, TensorFlow, scikit-learn  
-
-**Data & Tools**  
-Pandas, Jupyter  
-
-**Cloud & Databases**  
-AWS, PostgreSQL, MongoDB  
+| Project | Focus | Stack |
+|--------|------|------|
+| Flood Prediction System | Disaster ML modeling | Python, TensorFlow |
+| RAG Chatbot | Context-aware LLM system | LangChain, Vector DB |
+| Multi-Agent System | AI orchestration | Python, LLM APIs |
+| Automation Suite | Workflow optimization | Python, APIs |
 
 ---
 
-## Achievements
-
-- Grand Finalist – Hackfest: Axis (GDGOC-Loyola x Accenture)  
-- Participant – Huawei ICT Competition  
+## 🏆 Highlights
+- Grand Finalist — Hackfest Axis (GDGOC x Accenture)  
+- Huawei ICT Competition Participant  
 - AWS AI/ML Scholar  
 
 ---
 
-## Current Focus
-
-- Deep learning architectures  
-- LLM fine-tuning and evaluation  
-- Retrieval systems and vector search  
-- Model deployment and MLOps  
-
----
-
-## Contact
-
-LinkedIn: https://linkedin.com  
-Email: your.email@gmail.com  
-
----
-
-GitHub: https://github.com/matthew-sudo2
+## 📫 Contact
+- LinkedIn: https://linkedin.com  
+- Email: your.email@gmail.com  
