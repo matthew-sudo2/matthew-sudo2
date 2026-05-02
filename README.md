@@ -9,7 +9,7 @@
 Machine Learning Engineer focused on **applied AI systems**, with experience in building models, retrieval pipelines, and automation tools.
 
 I care about:
-- Production-ready ML systems (not just notebooks)
+- Production-ready ML systems 
 - Data → Model → Deployment pipelines
 - LLM applications with real-world grounding (RAG, agents)
 - Scalable and maintainable AI infrastructure
