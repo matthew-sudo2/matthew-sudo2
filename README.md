@@ -1,84 +1,128 @@
 # Matthew — Machine Learning Engineer
 
-<table>
-<tr>
-<td width="55%" valign="top">
+> Building scalable ML systems that move from research → production → impact.
 
-## 🧠 Profile
-CS student focused on **Machine Learning systems** and applied AI.
+---
 
-I build models that don’t just work in notebooks—  
-they scale, deploy, and solve real problems.
+## 🧭 Overview
 
-### Focus Areas
-- Applied ML / Deep Learning  
-- RAG & LLM Systems  
-- Multi-Agent Architectures  
-- MLOps & Deployment  
+Machine Learning Engineer focused on **applied AI systems**, with experience in building models, retrieval pipelines, and automation tools.
 
-### Current Role
-**AI/ML Lead**  
-AWS Learning Club – Legarda  
-- Lead ML workshops  
-- Mentor student builders  
-- Design AI projects & pipelines  
+I care about:
+- Production-ready ML systems (not just notebooks)
+- Data → Model → Deployment pipelines
+- LLM applications with real-world grounding (RAG, agents)
+- Scalable and maintainable AI infrastructure
 
-</td>
-<td width="45%" valign="top">
+---
 
-## ⚙️ Tech Stack
+## 🧠 Experience
 
-**Core ML**
-- Python
+### AI/ML Lead — AWS Learning Club (Legarda)
+**2026 – 2027**
+
+- Led technical ML workshops (classification, deep learning, LLM systems)
+- Mentored student teams building applied AI projects
+- Designed end-to-end ML learning pipelines for community projects
+- Coordinated AI initiative development across members
+
+---
+
+## 🚀 Selected Projects
+
+### Flood Risk Prediction System
+**Domain:** Disaster Intelligence / Environmental ML  
+- Built ML pipeline for flood risk classification  
+- Performed feature engineering on environmental datasets  
+- Evaluated multiple models for predictive performance
+
+**Stack:** Python · TensorFlow · Pandas · scikit-learn  
+
+---
+
+### Retrieval-Augmented Generation (RAG) Chatbot
+**Domain:** LLM Systems / Information Retrieval  
+- Designed document retrieval + embedding pipeline  
+- Integrated LLM for grounded response generation  
+- Reduced hallucination via retrieval-first architecture
+
+**Stack:** Python · LangChain · Vector Databases · LLM APIs  
+
+---
+
+### Multi-Agent Task System
+**Domain:** LLM Orchestration / AI Systems  
+- Designed multi-agent coordination framework  
+- Implemented task decomposition and agent routing logic  
+- Enabled modular AI workflows using LLM-based agents  
+
+**Stack:** Python · LLM APIs · System Design  
+
+---
+
+### Automation & Workflow Engine
+**Domain:** Productivity / Backend Automation  
+- Built automation tools for repetitive data workflows  
+- Integrated APIs for task orchestration  
+- Improved process efficiency through scripting systems  
+
+**Stack:** Python · REST APIs · MongoDB  
+
+---
+
+## 🧰 Technical Skills
+
+**Languages**
+- Python (primary)
+- JavaScript
+
+**Machine Learning**
 - PyTorch
 - TensorFlow
-- scikit-learn  
+- scikit-learn
 
-**Data**
+**Data / ML Pipeline**
 - Pandas
-- Jupyter
+- Feature Engineering
+- Model Evaluation
 
-**Backend / Tools**
-- JavaScript
-- APIs
+**LLM / AI Systems**
+- RAG pipelines
+- Vector Databases
+- Prompt Engineering
+- Multi-agent systems
+
+**Cloud / Backend**
+- AWS (basic services)
 - MongoDB
 - PostgreSQL
-
-**Cloud**
-- AWS (S3, EC2, basic ML services)
+- REST APIs
 
 ---
 
-## 🎯 Currently Learning
-- LLM fine-tuning  
-- Vector databases (RAG systems)  
-- MLOps pipelines  
-- Multi-agent AI systems  
+## 📈 Focus Areas
 
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Projects (Selected)
-
-| Project | Focus | Stack |
-|--------|------|------|
-| Flood Prediction System | Disaster ML modeling | Python, TensorFlow |
-| RAG Chatbot | Context-aware LLM system | LangChain, Vector DB |
-| Multi-Agent System | AI orchestration | Python, LLM APIs |
-| Automation Suite | Workflow optimization | Python, APIs |
+- Scalable ML system design  
+- LLM application architecture  
+- Retrieval-Augmented Generation (RAG)  
+- MLOps & deployment pipelines  
+- AI agent systems  
 
 ---
 
 ## 🏆 Highlights
+
 - Grand Finalist — Hackfest Axis (GDGOC x Accenture)  
-- Huawei ICT Competition Participant  
+- Huawei ICT Competition — Participant  
 - AWS AI/ML Scholar  
 
 ---
 
 ## 📫 Contact
+
 - LinkedIn: https://linkedin.com  
 - Email: your.email@gmail.com  
+
+---
+
+> “I don’t just train models—I build systems that ship intelligence.”
