@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Matthew
-### AI & Machine Learning Researcher Intern
+### AI & Machine Learning Researcher Intern @ Food Systems Collective | AI/ML Lead ‘26-‘27 @ AWS Learning Club - Legarda
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Architecting+Research+%E2%86%92+Impact;Building+Scalable+ML+Systems;ML+Engineer+%2F+Data+Scientist)
 
@@ -13,7 +13,7 @@
 ---
 
 ### 🧭 Profile
-Machine Learning Engineer specializing in **Applied AI and Data Science**. I build end-to-end systems that bridge the gap between academic research and production-grade deployments, focusing on scalable model architecture, retrieval systems, and generative intelligence.
+Machine Learning Intern specializing in **Applied AI and Data Science**. I build end-to-end systems that bridge the gap between academic research and production-grade deployments, focusing on scalable model architecture, retrieval systems, and generative intelligence.
 
 ---
 
