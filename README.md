@@ -74,7 +74,8 @@ Machine Learning Intern specializing in **Applied AI and Data Science**. I build
 
 > *"I don't just train models—I build the systems that ship them."*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthew-sudo2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-sudo2&layout=compact&theme=tokyonight)
+<!-- Reliable Community Mirror -->
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=matthew-sudo2&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=matthew-sudo2&layout=compact&theme=tokyonight)
 
 </div>
