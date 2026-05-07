@@ -1,4 +1,4 @@
-# Matthew | Machine Learning Engineer
+# Matthew | AI & Machine Learning Researcher Intern
 > **Architecting the transition from Research → Production → Impact.**
 
 ---
