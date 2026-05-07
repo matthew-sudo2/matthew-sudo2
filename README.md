@@ -1,128 +1,64 @@
-# Matthew — Machine Learning Engineer
-
-> Building scalable ML systems that move from research → production → impact.
-
----
-
-## 🧭 Overview
-
-Machine Learning Engineer focused on **applied AI systems**, with experience in building models, retrieval pipelines, and automation tools.
-
-I care about:
-- Production-ready ML systems 
-- Data → Model → Deployment pipelines
-- LLM applications with real-world grounding (RAG, agents)
-- Scalable and maintainable AI infrastructure
+# Matthew | Machine Learning Engineer
+> **Architecting the transition from Research → Production → Impact.**
 
 ---
 
-## 🧠 Experience
-
-### AI/ML Lead — AWS Learning Club (Legarda)
-**2026 – 2027**
-
-- Led technical ML workshops (classification, deep learning, LLM systems)
-- Mentored student teams building applied AI projects
-- Designed end-to-end ML learning pipelines for community projects
-- Coordinated AI initiative development across members
+### 🧭 Profile
+Machine Learning Engineer specializing in **Applied AI and Data Science**. I build end-to-end systems that bridge the gap between academic research and production-grade deployments, focusing on scalable model architecture, retrieval systems, and generative intelligence.
 
 ---
 
-## 🚀 Selected Projects
+### 🧠 Experience
 
-### Flood Risk Prediction System
-**Domain:** Disaster Intelligence / Environmental ML  
-- Built ML pipeline for flood risk classification  
-- Performed feature engineering on environmental datasets  
-- Evaluated multiple models for predictive performance
-
-**Stack:** Python · TensorFlow · Pandas · scikit-learn  
+**AI/ML Lead — AWS Learning Club (Legarda)** | *2026 – Present*
+*   Architected technical curricula for Deep Learning and LLM orchestration (RAG/Agents).
+*   Mentored teams on moving from `scikit-learn` prototypes to production `PyTorch` deployments.
+*   Standardized modular ML pipeline designs for community-led AI initiatives.
 
 ---
 
-### Retrieval-Augmented Generation (RAG) Chatbot
-**Domain:** LLM Systems / Information Retrieval  
-- Designed document retrieval + embedding pipeline  
-- Integrated LLM for grounded response generation  
-- Reduced hallucination via retrieval-first architecture
+### 🚀 Selected Projects
 
-**Stack:** Python · LangChain · Vector Databases · LLM APIs  
+**Generative Engine Optimization (GEO) & Retrieval Research**  
+*Information Retrieval • Transformer Evaluation*
+*   Performed **Ablation Testing** to compare retrieval effectiveness across **Semantic Analysis**, **Hybrid Search (BM25)**, and **Reciprocal Rank Fusion (RRF)**.
+*   Conducted comparative analysis between standard Transformers and domain-specific **Food Transformers** for niche data retrieval.
+*   Engineered a robust **ETL Pipeline**: Web-scraped and integrated diverse datasets from Kaggle and Food Database APIs into a unified research environment.
+*   **Stack:** Python, Transformers, BM25, RRF, BeautifulSoup, ETL Workflows.
 
----
+**"Sana All May Label" — Agentic Data Pipeline**  
+*Data Engineering • MLOps • Agentic Workflows*
+*   Developed a local-first research pipeline utilizing a **5-agent LangGraph workflow** for automated data cleaning, validation, and reporting.
+*   Implemented deterministic Pandas ETL combined with **Random Forest/XGBoost quality gates**.
+*   Achieved high-precision outcomes: **95.26% accuracy** and **95.80% F1-score** on held-out test data.
+*   **Stack:** Python, LangGraph, XGBoost, Random Forest, Pandas.
 
-### Multi-Agent Task System
-**Domain:** LLM Orchestration / AI Systems  
-- Designed multi-agent coordination framework  
-- Implemented task decomposition and agent routing logic  
-- Enabled modular AI workflows using LLM-based agents  
-
-**Stack:** Python · LLM APIs · System Design  
-
----
-
-### Automation & Workflow Engine
-**Domain:** Productivity / Backend Automation  
-- Built automation tools for repetitive data workflows  
-- Integrated APIs for task orchestration  
-- Improved process efficiency through scripting systems  
-
-**Stack:** Python · REST APIs · MongoDB  
+**Advanced RAG & Multi-Agent Systems**  
+*NLP • LLM Orchestration*
+*   Designed a RAG pipeline utilizing semantic search and custom chunking to minimize hallucination.
+*   Implemented agentic workflows for task decomposition and automated query routing.
+*   **Stack:** LangChain, LangGraph, ChromaDB, OpenAI/HuggingFace.
 
 ---
 
-## 🧰 Technical Skills
+### 🧰 Technical Arsenal
 
-**Languages**
-- Python (primary)
-- JavaScript
-
-**Machine Learning**
-- PyTorch
-- TensorFlow
-- scikit-learn
-
-**Data / ML Pipeline**
-- Pandas
-- Feature Engineering
-- Model Evaluation
-
-**LLM / AI Systems**
-- RAG pipelines
-- Vector Databases
-- Prompt Engineering
-- Multi-agent systems
-
-**Cloud / Backend**
-- AWS (basic services)
-- MongoDB
-- PostgreSQL
-- REST APIs
+*   **ML/DL:** PyTorch, Transformers (BERT, Food-specific variants), Scikit-learn, XGBoost, Ablation Testing.
+*   **Data Science:** ETL Pipelines, Web Scraping, BM25/RRF, Statistical Analysis, Feature Engineering.
+*   **LLM Ops:** LangGraph, RAG, Vector Databases, Semantic Search, Agentic Workflows.
+*   **Infrastructure:** AWS (SageMaker/S3), Docker, Git, REST APIs, PostgreSQL, MongoDB.
 
 ---
 
-## 📈 Focus Areas
-
-- Scalable ML system design  
-- LLM application architecture  
-- Retrieval-Augmented Generation (RAG)  
-- MLOps & deployment pipelines  
-- AI agent systems  
+### 🏆 Highlights
+*   **Grand Finalist** — Hackfest Axis (GDGOC x Accenture)
+*   **Scholar** — AWS AI/ML Program
+*   **Participant** — Huawei ICT Competition
 
 ---
 
-## 🏆 Highlights
+### 📫 Connect
+- **Email:** [your.email@gmail.com]
+- **LinkedIn:** [linkedin.com/in/your-profile]
 
-- Grand Finalist — Hackfest Axis (GDGOC x Accenture)  
-- Huawei ICT Competition — Participant  
-- AWS AI/ML Scholar  
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://linkedin.com  
-- Email: your.email@gmail.com  
-
----
-
-> “I don’t just train models—I build systems that ship intelligence.”
+> *"I don't just train models—I build the systems that ship them."*
