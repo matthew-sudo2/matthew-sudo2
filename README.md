@@ -58,7 +58,7 @@ Machine Learning Engineer specializing in **Applied AI and Data Science**. I bui
 ---
 
 ### 📫 Connect
-- **Email:** [your.email@gmail.com]
-- **LinkedIn:** [linkedin.com/in/your-profile]
+- **Email:** [aujsc.botematthew@gmail.com]
+- **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/matthew-john-bote-5b74b5373/)]
 
 > *"I don't just train models—I build the systems that ship them."*
