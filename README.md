@@ -12,12 +12,12 @@
 
 ---
 
-### 🧭 Profile
+###  Profile
 Machine Learning Intern specializing in **Applied AI and Data Science**. I build end-to-end systems that bridge the gap between academic research and production-grade deployments, focusing on scalable model architecture, retrieval systems, and generative intelligence.
 
 ---
 
-### 🧠 Experience
+###  Experience
 
 **AI/ML Lead — AWS Learning Club (Legarda)** | *2026 – Present*
 * 🚀 **Curriculum Architect**: Designed technical curricula for Deep Learning and LLM orchestration (RAG/Agents).
@@ -26,7 +26,7 @@ Machine Learning Intern specializing in **Applied AI and Data Science**. I build
 
 ---
 
-### 🚀 Featured Research & Projects
+###  Featured Research & Projects
 
 <details open>
 <summary><b>Generative Engine Optimization (GEO) & Retrieval Research</b></summary>
@@ -52,7 +52,7 @@ Machine Learning Intern specializing in **Applied AI and Data Science**. I build
 
 ---
 
-### 🧰 Technical Arsenal
+###  Technical Arsenal
 
 | Category | Skills |
 | :--- | :--- |
@@ -63,9 +63,9 @@ Machine Learning Intern specializing in **Applied AI and Data Science**. I build
 
 ---
 
-### 🏆 Highlights
+###  Highlights
 * 🏅 **Grand Finalist** — Hackfest Axis (GDGOC x Accenture)
-* 🎓 **AWS AI/ML Scholar** 
+* 🎓 **Datacamp Scholar and AWS AI/ML Scholar** 
 * ⚔️ **Participant** — Huawei ICT Competition
 
 ---
