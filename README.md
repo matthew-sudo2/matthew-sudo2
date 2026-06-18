@@ -20,9 +20,9 @@ Machine Learning Intern specializing in **Applied AI and Data Science**. I build
 ###  Experience
 
 **AI/ML Lead — AWS Learning Club (Legarda)** | *2026 – Present*
-* 🚀 **Curriculum Architect**: Designed technical curricula for Deep Learning and LLM orchestration (RAG/Agents).
-* 👨‍🏫 **Technical Mentor**: Guided teams from `scikit-learn` prototypes to production `PyTorch` deployments.
-* 🛠️ **System Design**: Standardized modular ML pipelines for club-wide AI initiatives.
+* Designed technical curricula for Deep Learning and LLM orchestration (RAG/Agents).
+* Guided teams from `scikit-learn` prototypes to production `PyTorch` deployments.
+* Standardized modular ML pipelines for club-wide AI initiatives.
 
 ---
 
