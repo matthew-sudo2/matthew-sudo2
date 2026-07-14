@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Matthew
-### AI & Machine Learning Researcher Intern @ Food Systems Collective | AI/ML Lead ‘26-‘27 @ AWS Learning Club - Legarda
+### Machine Learning Researcher Intern @ Food Systems Collective | AI/ML Lead ‘26-‘27 @ AWS Learning Club - Legarda
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Architecting+Research+%E2%86%92+Impact;Building+Scalable+ML+Systems;ML+Engineer+%2F+Data+Scientist)
 
