@@ -6,7 +6,7 @@
 
 <img src="L-ASCII.png" alt="ASCII art card — Matthew" width="100%">
 
-<sub>· self-portrait, rendered in pure terminal ·</sub>
+<sub>· Sometimes, the questions are complicated, and the answers are simple. ·</sub>
 
 </td>
 <td width="62%" valign="top">
@@ -15,7 +15,7 @@
 ──────────────────────────────────────────────────────────────────<br>
 <b>Uptime:</b>................... 1 year, 88 days<br>
 <b>Role:</b>..................... ML Researcher Intern @ Food Systems Collective<br>
-<b>Stack:</b>.................... Python, PyTorch, TensorFlow, LangChain<br>
+<b>Stack:</b>.................... Python, PyTorch, Numpy, LangChain<br>
 <b>Joined:</b>................... Jul 2025<br>
 ──────────────────────────────────────────────────────────────────<br>
 <b>GitHub:</b>................... github.com/matthew-sudo2<br>
@@ -24,7 +24,6 @@
 ──────────────────────────────────────────────────────────────────<br>
 <b>Repos:</b>..... 17   <b>Commits:</b>... 269<br>
 <b>Followers:</b>. 30   <b>Following:</b>. 32<br>
-<b>Gists:</b>..... 0    <b>Stars:</b>..... 0<br>
 ──────────────────────────────────────────────────────────────────
 </samp>
 
