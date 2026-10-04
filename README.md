@@ -6,7 +6,7 @@
 
 <img src="L-ASCII.png" alt="ASCII art card — Matthew" width="100%">
 
-<sub>· Sometimes, the questions are complicated, and the answers are simple. ·</sub>
+<sub>· It’s not a sense of justice. Figuring out difficult cases is my hobby. ·</sub>
 
 </td>
 <td width="62%" valign="top">
