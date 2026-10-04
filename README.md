@@ -1,5 +1,3 @@
-<samp>matthew-sudo2 / README.md</samp>
-
 <table>
 <tr>
 <td width="38%" valign="top" align="center">
