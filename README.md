@@ -6,7 +6,7 @@
 
 <img src="L-ASCII.png" alt="ASCII art card — Matthew" width="100%">
 
-<sub>· It’s not a sense of justice. Figuring out difficult cases is my hobby. ·</sub>
+<sub>· No matter how gifted you are, you, alone, cannot change the world. ·</sub>
 
 </td>
 <td width="62%" valign="top">
@@ -15,7 +15,7 @@
 ──────────────────────────────────────────────────────────────────<br>
 <b>Uptime:</b>................... 1 year, 88 days<br>
 <b>Role:</b>..................... ML Researcher Intern @ Food Systems Collective<br>
-<b>Stack:</b>.................... Python, PyTorch, Numpy, LangChain<br>
+<b>Stack:</b>.................... Python, PyTorch, Deep Learning, LLMs<br>
 <b>Joined:</b>................... Jul 2025<br>
 ──────────────────────────────────────────────────────────────────<br>
 <b>GitHub:</b>................... github.com/matthew-sudo2<br>
@@ -38,13 +38,13 @@
 ██╔████╔██║ ███████║   ██║      ██║   ███████║█████╗  ██║ █╗ ██║
 ██║╚██╔╝██║ ██╔══██║   ██║      ██║   ██╔══██║██╔══╝  ██║███╗██║
 ██║ ╚═╝ ██║ ██║  ██║   ██║      ██║   ██║  ██║███████╗╚██████╔╝
-╚═╝     ╚═╝ ═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝
+╚═╝     ╚═╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ 
 </pre>
-<sub>applied AI · retrieval &amp; ranking · agentic data systems</sub>
+<sub>applied AI · research engineering · llm architectures</sub>
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Architecting+Research+%E2%86%92+Impact;Building+Scalable+ML+Systems;ML+Engineer+%2F+Data+Scientist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Architecting+Research+%E2%86%92+Impact;Reproducing+State-of-the-Art+Papers;Deep+Learning+%2F+LLM+Engineer)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-john-bote-5b74b5373/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aujsc.botematthew@gmail.com)
@@ -54,7 +54,7 @@
 ---
 
 ### `$ cat ./profile.md`
-Machine Learning Intern specializing in **Applied AI and Data Science**. I build end-to-end systems that bridge the gap between academic research and production-grade deployments, focusing on scalable model architecture, retrieval systems, and generative intelligence.
+Machine Learning Intern specializing in **Research Engineering**. I bridge the gap between academic breakthroughs and production systems by focusing on **research reproduction**, **deep learning**, and **LLM architectures**. My work involves reverse-engineering papers, implementing novel transformer variants, and scaling experimental models into robust, reproducible pipelines.
 
 ---
 
@@ -67,47 +67,13 @@ Machine Learning Intern specializing in **Applied AI and Data Science**. I build
 
 ---
 
-### `$ git log --oneline --featured`
+### `$ cd ~/research-focus`
 
-<details open>
-<summary><b>Generative Engine Optimization (GEO) & Retrieval Research</b></summary>
-<br>
-<i>Information Retrieval • Transformer Evaluation</i>
+My current work sits at the intersection of deep learning theory and systems engineering. I specialize in:
 
-*   **Ablation Testing**: Compared retrieval effectiveness across **Semantic Analysis**, **Hybrid Search (BM25)**, and **Reciprocal Rank Fusion (RRF)**.
-*   **Specialized Models**: Comparative analysis between standard Transformers and domain-specific **Food Transformers**.
-*   **ETL Pipeline**: Web-scraped and integrated datasets from Kaggle and Food APIs into a unified research environment.
-*   **Stack**: `Python` `Transformers` `BM25` `RRF` `BeautifulSoup`
-</details>
-
-<details>
-<summary><b>"Sana All May Label" — Agentic Data Pipeline</b></summary>
-<br>
-<i>Data Engineering • MLOps • Agentic Workflows</i>
-
-*   **Multi-Agent Workflow**: Local-first research pipeline using a **5-agent LangGraph workflow** for automated cleaning and validation.
-*   **Quality Gates**: Implemented deterministic Pandas ETL with **Random Forest/XGBoost** gates.
-*   **Metrics**: Achieved **95.26% accuracy** and **95.80% F1-score** on held-out test data.
-*   **Stack**: `LangGraph` `XGBoost` `Random Forest` `Pandas`
-</details>
-
----
-
-### `$ cat ./arsenal.conf`
-
-| Category | Skills |
-| :--- | :--- |
-| **ML/DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) |
-| **AI Systems** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
-| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) |
-
----
-
-### `$ echo $ACHIEVEMENTS`
-* 🏅 **Grand Finalist** — Hackfest Axis (GDGOC x Accenture)
-* 🎓 **Datacamp Scholar and AWS AI/ML Scholar**
-* ⚔️ **Participant** — Huawei ICT Competition
+* **Research Reproduction:** Translating novel arXiv papers into working, reproducible codebases from scratch.
+* **Deep Learning:** Building custom training loops, optimizing gradient flows, and experimenting with novel loss functions.
+* **LLM Architectures:** Investigating transformer variants, attention mechanisms, and efficient inference strategies.
 
 ---
 
