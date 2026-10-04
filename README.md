@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 <pre>
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$B%&#MMMMW###MMW&%@@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -78,18 +78,38 @@ W%%%%%%%%WW8%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%8WMhhhhhhhhkhaahhhhhhh#Wahh
 </pre>
 
 </td>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
+
+<br><br>
 
 # Matt
 
-**ML Researcher Intern** @ Food Systems Collective
-**AI/ML Lead '26–'27** @ AWS Learning Club — Legarda
+• **Role:** ML Researcher Intern @ Food Systems Collective
+• **Focus:** AI/ML Lead '26–'27 @ AWS Learning Club
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-john-bote-5b74b5373/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aujsc.botematthew@gmail.com)
+• **Languages:** Python, PyTorch, TensorFlow, LangChain
+• **LinkedIn:** [matthew-john-bote](https://www.linkedin.com/in/matthew-john-bote-5b74b5373/)
+• **Email:** aujsc.botematthew@gmail.com
+
+<br>
+<hr>
+<br>
 
 > *"I don't just train models — I build the systems that ship them."*
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+<pre>
+███╗   ███╗ █████╗ ████████╗████████╗
+████╗ ████║██╔══██╗╚══██╔══╝╚══██╔══╝
+██╔████╔██║███████║   ██║      ██║   
+██║╚██╔╝██║██╔══██║   ██║      ██║   
+██║ ╚═╝ ██║██║  ██║   ██║      ██║   
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   
+</pre>
+</div>
